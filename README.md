@@ -81,15 +81,15 @@ const mawira = {
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0f2027" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0f2027" alt="top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nocturn-hq&layout=compact&theme=radical&hide_border=true&bg_color=0f2027" alt="top languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0f2027" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nocturn-hqE&theme=radical&hide_border=true&background=0f2027" alt="streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0f2027&color=aab58d&line=2c5364&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nocturn-hqE&bg_color=0f2027&color=aab58d&line=2c5364&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%"/>
 
 </div>
 
@@ -100,7 +100,7 @@ const mawira = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-Ephymawira817%40gmail.com-2c5364?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ephymawira817@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nocturn-hq)
 
 <br/>
 
